@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>    //MEAN, VARIANCE & STANDARD DEVIATION
 #include <math.h>
 #define MAXSIZE 10
 void main() {
